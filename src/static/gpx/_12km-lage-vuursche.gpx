@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+</metadata>
+<trk>
+<name>Lage Vuursche</name>
+<desc>Bos en heide</desc>
+<trkseg>
+<trkpt lat="52.17877150" lon="5.22243260">
+<ele>11</ele>
+</trkpt>
+<trkpt lat="52.18039650" lon="5.22268750">
+<ele>13</ele>
+</trkpt>
+<trkpt lat="52.18443250" lon="5.21999470">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.18524770" lon="5.22216930">
+<ele>18</ele>
+</trkpt>
+<trkpt lat="52.19037040" lon="5.21761460">
+<ele>18</ele>
+</trkpt>
+<trkpt lat="52.18984370" lon="5.21582370">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.19342290" lon="5.21399570">
+<ele>11</ele>
+</trkpt>
+<trkpt lat="52.19578550" lon="5.21610600">
+<ele>17</ele>
+</trkpt>
+<trkpt lat="52.19621670" lon="5.21708790">
+<ele>18</ele>
+</trkpt>
+<trkpt lat="52.19576600" lon="5.21987920">
+<ele>20</ele>
+</trkpt>
+<trkpt lat="52.19812050" lon="5.21886440">
+<ele>17</ele>
+</trkpt>
+<trkpt lat="52.19954250" lon="5.22065160">
+<ele>19</ele>
+</trkpt>
+<trkpt lat="52.20310940" lon="5.21688760">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.20411300" lon="5.21842000">
+<ele>18</ele>
+</trkpt>
+<trkpt lat="52.20383290" lon="5.21861000">
+<ele>18</ele>
+</trkpt>
+<trkpt lat="52.20365960" lon="5.21837710">
+<ele>17</ele>
+</trkpt>
+<trkpt lat="52.20342640" lon="5.21975040">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.20409150" lon="5.22246760">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.20387700" lon="5.22367720">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.20364090" lon="5.22384880">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.20280410" lon="5.22543670">
+<ele>21</ele>
+</trkpt>
+<trkpt lat="52.20334050" lon="5.22783990">
+<ele>21</ele>
+</trkpt>
+<trkpt lat="52.20186000" lon="5.23032900">
+<ele>24</ele>
+</trkpt>
+<trkpt lat="52.20207450" lon="5.23075820">
+<ele>22</ele>
+</trkpt>
+<trkpt lat="52.20194800" lon="5.23258080">
+<ele>22</ele>
+</trkpt>
+<trkpt lat="52.20221530" lon="5.23281440">
+<ele>20</ele>
+</trkpt>
+<trkpt lat="52.20213890" lon="5.23365500">
+<ele>19</ele>
+</trkpt>
+<trkpt lat="52.20280410" lon="5.23427720">
+<ele>17</ele>
+</trkpt>
+<trkpt lat="52.20276310" lon="5.23440010">
+<ele>17</ele>
+</trkpt>
+<trkpt lat="52.20364200" lon="5.23508780">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.20353360" lon="5.23537160">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.20421670" lon="5.23563180">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.20308570" lon="5.24530400">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.20355930" lon="5.24571680">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.20359470" lon="5.24618160">
+<ele>13</ele>
+</trkpt>
+<trkpt lat="52.20318500" lon="5.24675770">
+<ele>13</ele>
+</trkpt>
+<trkpt lat="52.20213890" lon="5.24629350">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.20251990" lon="5.24174420">
+<ele>20</ele>
+</trkpt>
+<trkpt lat="52.19986440" lon="5.24185180">
+<ele>30</ele>
+</trkpt>
+<trkpt lat="52.19969270" lon="5.24092910">
+<ele>31</ele>
+</trkpt>
+<trkpt lat="52.19840530" lon="5.24114370">
+<ele>28</ele>
+</trkpt>
+<trkpt lat="52.19401000" lon="5.24365460">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.19542470" lon="5.24574290">
+<ele>13</ele>
+</trkpt>
+<trkpt lat="52.19347120" lon="5.24767750">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.19188110" lon="5.24842490">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.19118050" lon="5.24978780">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.19063450" lon="5.24860000">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.18892320" lon="5.24945730">
+<ele>13</ele>
+</trkpt>
+<trkpt lat="52.18893660" lon="5.24851220">
+<ele>12</ele>
+</trkpt>
+<trkpt lat="52.18781820" lon="5.24866620">
+<ele>7</ele>
+</trkpt>
+<trkpt lat="52.18637640" lon="5.24774300">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="52.18577170" lon="5.24818740">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="52.18566390" lon="5.24689810">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="52.18512500" lon="5.24499330">
+<ele>6</ele>
+</trkpt>
+<trkpt lat="52.18557420" lon="5.24092010">
+<ele>8</ele>
+</trkpt>
+<trkpt lat="52.18472970" lon="5.23801900">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.18420870" lon="5.23743300">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.18374150" lon="5.23494220">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.18325640" lon="5.23444400">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.18305730" lon="5.23307080">
+<ele>13</ele>
+</trkpt>
+<trkpt lat="52.18124190" lon="5.23124950">
+<ele>16</ele>
+</trkpt>
+<trkpt lat="52.18046040" lon="5.23297820">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.17974170" lon="5.23335910">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.18016390" lon="5.23231900">
+<ele>14</ele>
+</trkpt>
+<trkpt lat="52.17982260" lon="5.23056100">
+<ele>15</ele>
+</trkpt>
+<trkpt lat="52.17733430" lon="5.23167440">
+<ele>12</ele>
+</trkpt>
+<trkpt lat="52.17651680" lon="5.22246200">
+<ele>12</ele>
+</trkpt>
+<trkpt lat="52.17877150" lon="5.22243260">
+<ele>11</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
